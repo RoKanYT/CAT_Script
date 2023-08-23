@@ -1,3 +1,5 @@
+print ("Buildermack And RoKan_YT was here.")
+
 -- check if executor supports darkyyware
 local httpget = request or http_request or (http and http.request) or (syn and syn.request)
 if httpget and hookmetamethod and getnamecallmethod and Drawing and hookfunction and getconnections and getupvalue and getsenv and setfpscap then
